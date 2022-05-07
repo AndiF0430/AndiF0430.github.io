@@ -1,0 +1,22 @@
+body {
+    font-family: "Lucida Console", "Menlo", "Monaco", "Courier", monospace;
+}
+
+.nav-link.active {
+    color: #4F2E2C !important;
+    background-color: transparent !important;
+    text-decoration: underline;
+}
+
+a {
+    color: #4F2E2C !important;
+    font-weight: bold;
+}
+
+.shaomaiwelcome {
+    width: 35%;
+}
+
+p {
+    color: #524140
+}
