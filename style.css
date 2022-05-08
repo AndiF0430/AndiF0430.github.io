@@ -13,6 +13,19 @@ a {
     font-weight: bold;
 }
 
+button {
+    font-family: "Lucida Console", "Menlo", "Monaco", "Courier", monospace;
+    color: #83716F !important;
+}
+
+.card-body {
+    background-color: #FAE5D7 !important;
+}
+
+.text-muted {
+    color: #83716F !important;
+}
+
 .shaomaiwelcome {
     width: 100%;
     height: auto;
@@ -33,6 +46,16 @@ p {
 }
 
 .story2 {
+    width: 100%;
+    height: auto;
+}
+
+.story3 {
+    width: 100%;
+    height: auto;
+}
+
+.social1 {
     width: 100%;
     height: auto;
 }
